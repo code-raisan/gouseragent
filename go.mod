@@ -1,3 +1,3 @@
-module github.com/code-raisan/goUserAgent
+module github.com/code-raisan/gouseragent
 
 go 1.18
